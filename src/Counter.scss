@@ -1,0 +1,12 @@
+.container {
+  padding: 10px;
+
+  span {
+    font-weight: 600;
+  }
+  .btn-container {
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+  }
+}
